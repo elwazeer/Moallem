@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Moallem</string>
+    ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    <string-array name="name1">
+        <item>Physics</item>
+        <item>Biology</item>
+        <item>History</item>
+        <item>Algebra</item>
+        <item>Chemistry</item>
+    </string-array>
+
+    <string-array name="img1">
+        <item>physics</item>
+        <item>biology</item>
+        <item>history</item>
+        <item>algebra</item>
+        <item>chemistry</item>
+    </string-array>
+    ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    <string-array name="name2">
+        <item>Physics Revision</item>
+        <item>Cell Division</item>
+        <item>Ancient Egypt</item>
+        <item>Ace Integration</item>
+    </string-array>
+
+    <string-array name="img2">
+        <item>vphysics</item>
+        <item>vbiology</item>
+        <item>vhistory</item>
+        <item>valgebra</item>
+    </string-array>
+
+    <string-array name="vOne">
+        <item>http://clips.vorwaerts-gmbh.de/VfE_html5.mp4</item>
+    </string-array>
+
+    <string-array name="vTwo">
+        <item>https://storage.googleapis.com/webfundamentals-assets/videos/chrome.mp4</item>
+    </string-array>
+
+    <string-array name="vThree">
+        <item>https://storage.googleapis.com/webfundamentals-assets/fundamentals/media/videos/glocken.mov</item>
+    </string-array>
+
+    <string-array name="vFour">
+        <item>https://storage.googleapis.com/webfundamentals-assets/videos/chrome.mp4</item>
+    </string-array>
+    ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    <string-array name="name3">
+        <item>Mr Mohamed</item>
+        <item>Mr Bill</item>
+        <item>Mr Steve</item>
+        <item>Mr Mark</item>
+    </string-array>
+
+    <string-array name="img3">
+        <item>mohamed</item>
+        <item>bill</item>
+        <item>steve</item>
+        <item>mark</item>
+    </string-array>
+
+</resources>
